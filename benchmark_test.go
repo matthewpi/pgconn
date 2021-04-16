@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/jackc/pgconn"
+	"github.com/matthewpi/pgconn"
 	"github.com/stretchr/testify/require"
 )
 
